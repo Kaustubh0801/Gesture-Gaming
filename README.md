@@ -53,9 +53,6 @@ The gesture recognition system in this project is powered by a Convolutional Neu
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
   Inspired by the work of researchers and developers in the fields of machine learning and physical computing.
   Special thanks to the open-source community for providing valuable resources and libraries.
