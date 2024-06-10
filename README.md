@@ -4,7 +4,7 @@ This project combines machine learning techniques with hardware integration to c
 
 ## Features
 
-  Recognize hand gestures using a CNN model trained on TensorFlow/Keras.\n
+  Recognize hand gestures using a CNN model trained on TensorFlow/Keras.
   Control servo motors connected to a Raspberry Pi GPIO for physical feedback.
   Display game scores or other information on two seven-segment displays.
   Seamless integration of hardware components with the CNN model for real-time interaction.
@@ -12,17 +12,24 @@ This project combines machine learning techniques with hardware integration to c
   
 ## Hardware Requirements
 
-  Raspberry Pi (Model 3B+ or later recommended)\n
-  Servo motors (3x)\n
-  Seven-segment displays (2x)\n
+  Raspberry Pi (Model 3B+ or later recommended)
+  
+  Servo motors (3x)
+  
+  Seven-segment displays (2x)
+  
   Jumper wires and breadboard for connections
   
 ## Software Requirements
+
   Raspbian OS installed on Raspberry Pi
+  
   Python 3.x with libraries: TensorFlow, RPi.GPIO, serial
+  
   Trained CNN model (saved in TensorFlow SavedModel format)
   
 ## Installation
+
    1.Clone this repository to your Raspberry Pi:
      git clone https://github.com/yourusername/gesture-gaming.git
      
@@ -36,24 +43,34 @@ The gesture recognition system in this project is powered by a Convolutional Neu
 
 ## Tools Used
   TensorFlow/Keras: Used for training and deploying the CNN model.
+  
   RPi.GPIO: Python library for controlling GPIO pins on the Raspberry Pi.
+  
   pyserial: Python library for serial communication with external devices (e.g., Arduino).
 
 ## Usage
   Connect the servo motors and seven-segment displays to the GPIO pins of the Raspberry Pi 
   according to the provided wiring diagram.
+  
   Run the main Python script
+  
   Follow the on-screen instructions to interact with the gesture-based gaming system.
 
 ## Configuration
+
   Adjust GPIO pin numbers in the code if using different pins for servo motors or displays.
+  
   Fine-tune servo motor positions and display updates as needed for your specific gaming 
   scenario.
   
 ## Contributing
+
 Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements or bug fixes.
 
 ## Acknowledgments
-  Inspired by the work of researchers and developers in the fields of machine learning and physical computing.
+
+  Inspired by the work of researchers and developers in the fields of machine learning and 
+  physical computing.
+  
   Special thanks to the open-source community for providing valuable resources and libraries.
 
