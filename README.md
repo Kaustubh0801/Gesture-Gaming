@@ -1,6 +1,6 @@
 # Gesture Gaming Using Machine Learning and Raspberry Pi
 
-###This project combines machine learning techniques with hardware integration to create a gesture-based gaming system using a Raspberry Pi. The system allows users to interact with a game environment using hand gestures recognized by a trained Convolutional Neural Network (CNN). Servo motors and seven-segment displays are used to provide visual feedback and enhance the gaming experience.
+This project combines machine learning techniques with hardware integration to create a gesture-based gaming system using a Raspberry Pi. The system allows users to interact with a game environment using hand gestures recognized by a trained Convolutional Neural Network (CNN). Servo motors and seven-segment displays are used to provide visual feedback and enhance the gaming experience.
 
 Features
 Recognize hand gestures using a CNN model trained on TensorFlow/Keras.
