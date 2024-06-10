@@ -4,7 +4,7 @@ This project combines machine learning techniques with hardware integration to c
 
 ## Features
 
-  Recognize hand gestures using a CNN model trained on TensorFlow/Keras.
+  Recognize hand gestures using a CNN model trained on TensorFlow/Keras.\n
   Control servo motors connected to a Raspberry Pi GPIO for physical feedback.
   Display game scores or other information on two seven-segment displays.
   Seamless integration of hardware components with the CNN model for real-time interaction.
@@ -12,9 +12,9 @@ This project combines machine learning techniques with hardware integration to c
   
 ## Hardware Requirements
 
-  Raspberry Pi (Model 3B+ or later recommended)
-  Servo motors (3x)
-  Seven-segment displays (2x)
+  Raspberry Pi (Model 3B+ or later recommended)\n
+  Servo motors (3x)\n
+  Seven-segment displays (2x)\n
   Jumper wires and breadboard for connections
   
 ## Software Requirements
