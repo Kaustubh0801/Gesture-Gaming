@@ -25,8 +25,10 @@ This project combines machine learning techniques with hardware integration to c
 ## Installation
    1.Clone this repository to your Raspberry Pi:
      git clone https://github.com/yourusername/gesture-gaming.git
+     
    2.Install required Python libraries:
     pip install tensorflow RPi.GPIO pyserial
+    
    3.Upload your trained CNN model to the models/ directory.
 
 ## Machine Learning Model
