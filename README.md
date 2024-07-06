@@ -1,4 +1,4 @@
-# CNN_rock_paper_scissor
+# Gesture_Gaming
 
 A player vs computer rock paper scissor game that identifies the player's hand movements using the MobileNET neural network and plays a random move of its own, as well as keep score. 
 
